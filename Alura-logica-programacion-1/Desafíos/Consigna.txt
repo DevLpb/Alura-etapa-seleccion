@@ -1,1 +1,2 @@
-Práctica de lógica de programación, incluyendo conceptos como variables, contadores, condicionales (if, while), alertas (alert), solicitudes (prompt) y visualizaciones o respuestas en consola.
+Práctica de lógica de programación.
+Incluyendo conceptos como variables, contadores, condicionales (if, while), alertas (alert), solicitudes (prompt) y visualizaciones o respuestas en consola.
