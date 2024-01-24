@@ -1,0 +1,2 @@
+Práctica de lógica de programación, incluyendo conceptos como variables, contadores, condicionales (if, while), arrays, bucles, 
+alertas (alert), solicitudes (prompt), modificación de contenido, template strings, visualizaciones o respuestas en consola.
